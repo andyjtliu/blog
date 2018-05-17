@@ -21,5 +21,5 @@ files
 /follow.ddl
 /users.ddl
 4) run the project with command "python blog.py"
-5) access the system through http://localhost:8080/ or througg http://<ip>:8080
+5) access the system through http://localhost:8080/ or througg http://<-ip->:8080
 
